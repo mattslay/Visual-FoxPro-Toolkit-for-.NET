@@ -7,9 +7,10 @@ Info about it:
   www.codemag.com/article/0209071/The-Visu...Pro-Toolkit-for-.NET 
 
 Download links:
- foxcentral.net/microsoft/VFPToolkitNET.htm 
+  http://foxcentral.net/microsoft/VFPToolkitNET.htm
+  
 
-Here is nother helpful resource for VFP developers who want to leaarn about .Net from the perspectinve of their FoxPro existing knowledge:
+Here is another helpful resource for VFP developers who want to leaarn about .Net from the perspectinve of their existing FoxPro knowledge:
 http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
  ## VFPToolkit Namespace:
