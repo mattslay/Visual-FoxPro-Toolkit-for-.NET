@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFPToolkitNET_CSharpNET_Source", "VFPToolkitNET_CSharpNET_Source.csproj", "{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}.Debug.ActiveCfg = Debug|.NET
+		{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}.Debug.Build.0 = Debug|.NET
+		{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}.Release.ActiveCfg = Release|.NET
+		{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
