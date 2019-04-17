@@ -302,7 +302,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## VfpData Class
-### CfpData Members
+### vfpData Members
 	_Filter
 	_Found
 	_Order
