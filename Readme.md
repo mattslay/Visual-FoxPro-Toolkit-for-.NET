@@ -1,7 +1,7 @@
 # Visual FoxPro Toolkit for .NET
 Many years ago someone created a pretty exhaustive .Net Library of FoxPro functions that were identified as nice Fox Stuff to have in .Net. They matched the function names, parameters and return types exactly, as I recall. The source code is available in C# or you can just download the DLL.
 
-I created this repo as a helpful resource in case anyone has a hard time finding it on the wed.
+I created this repo as a helpful resource in case anyone has a hard time finding it on the web.
 
 Info about it:
   www.codemag.com/article/0209071/The-Visu...Pro-Toolkit-for-.NET 
@@ -12,6 +12,14 @@ Download links:
 
 Here is another helpful resource for VFP developers who want to leaarn about .Net from the perspectinve of their existing FoxPro knowledge:
 http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
+
+### Visual FoxPro Toolkit for .NET Team:
+- Kamal Patel (Lead Developer, Creator)
+- Cathi Gero (Program Manager)
+- Rick Hodder (Help)
+- Nancy Folsom (Reviewer, Evangelist)
+- Ken Levy (Advisor, Communications)
+
 
  ## VFPToolkit Namespace:
 
