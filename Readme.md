@@ -81,7 +81,8 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	Quarter(DateTime dDate)
 	Sec(DateTime dDate)
 	Sec(DateTime dDate)
-	SecondsO © TimeO
+	Seconds()
+	Time()
 	TTOC(DateTime dDate)
 	TTOD(DateTimetDateTime)
 	Week(DateTime tdDate)
