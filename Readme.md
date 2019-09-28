@@ -251,7 +251,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 ## Strings Class
 ### Strings Members
-	AIITrim(string cExpression)
+	Alltrim(string cExpression)
 	Asc(char cCharacter)
 	At(string cSearchFor, string cSearchln)
 	At(string cSearchFor, string cSearchln, int nOccurence)
@@ -284,9 +284,9 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	PadR(string cExpression, int nResultSize)
 	PadR(string cExpression, int nResultSize, char cPaddingChar)
 	Proper(string cString)
-	RAt(string cSearchFor, string cSearchln)
-	RAt(string cSearchFor, string cSearchln, int nOccurence)
-	RAtLine(string tcSearchExpression, string tcExpressionSearched)
+	Rat(string cSearchFor, string cSearchln)
+	Rat(string cSearchFor, string cSearchln, int nOccurence)
+	RatLine(string tcSearchExpression, string tcExpressionSearched)
 	Replicate(string cExpression, int nTimes)
 	Right(string cExpression, int nDigits)
 	RTrim(string cExpression)
