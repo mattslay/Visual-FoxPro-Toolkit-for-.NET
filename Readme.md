@@ -242,10 +242,12 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	Log10(decimal nNumber)
 	Log10(double nNumber)
 	Log10(int nNumber)
-	Max(decimal nVaM, decimal nVal2) © Max(double nVaM, double nVal2)
+	Max(decimal nVaM, decimal nVal2)
+	Max(double nVaM, double nVal2)
 	Max(float nVaM, float nVal2)
 	Max(int nVaM, int nVal2)
-	Min(decimal nVaM, decimal nVal2) © Min(double nVaM, double nVal2)
+	Min(decimal nVaM, decimal nVal2)
+	Min(double nVaM, double nVal2)
 	Min(float nVaM, float nVal2)
 
 
@@ -359,7 +361,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	oView
 	Recall(int nRecNo)
 	Recall(int nRecNo, DataView toView)
-	RecCountO
+	RecCount()
 	RecCount(DataView toView)
 	Seek(string tcString)
 	Seek(string tcString, DataView toView)
