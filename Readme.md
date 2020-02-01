@@ -211,7 +211,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## Math Class
-### MathMembers
+### Math Members
 	Abs(decimal nNumber)
 	Abs(double nNumber)
 	Abs(int nNumber)
