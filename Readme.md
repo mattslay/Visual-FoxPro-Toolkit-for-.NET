@@ -33,7 +33,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	ADel(ref Array aArray, int nElementNumber, int nRemoveColumn)
 	ADir(string cFileSkeleton)
 	AFont(out string!] aArray)
-	Alns(ref Array aArray, int nElementNumber)
+	AIns(ref Array aArray, int nElementNumber)
 	ALen(Array aArray)
 	ALen(Array aArray, int nArrayAttribute)
 	ALines(out string!) aArray, string cExpression)
@@ -101,7 +101,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 ## Dialogs Class
 ### Dialogs Members
 	_GetExtenstion(string IcExtension)
-	_GetFile(string tcFilter, int tnFilterlndex, string tcTitle)
+	_GetFile(string tcFilter, int tnFilterIndex, string tcTitle)
 	GetColor(Color oColor)
 	GetDir()
 	GetDir(string tcTitle)
@@ -140,7 +140,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	NumLock()
 	OS()
 	PrintStatus()
-	Prtlnfo()
+	PrtInfo()
 	sys(int nValue)
 	SysMetric(int nValue)
 	Version()
@@ -163,7 +163,7 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	
 ## Files Class
   ### Files Members
-	AGetFileVersion(ref string[] aFilelnfoArray, string cFileName)
+	AGetFileVersion(ref string[] aFileInfoArray, string cFileName)
 	CurDir()
 	DefaultExt(string cFileName, string cExtension)
 	Directory(string cPath)
@@ -234,8 +234,8 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	DTOR(double nDegrees)
 	Exp(double nNumber)
 	Floor(double nNumber)
-	lnt(double nNumber)
-	lnt(float nNumber)
+	Int(double nNumber)
+	Int(float nNumber)
 	Log(decimal nNumber)
 	Log(double nNumber)
 	Log(int nNumber)
@@ -350,8 +350,8 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	Filter()
 	Filter(DataView toView)	
 	Found()
-	lndexSeek(string tcExpression)	
-	lndexSeek(string tcExpression, DataView toView)	
+	IndexSeek(string tcExpression)	
+	IndexSeek(string tcExpression, DataView toView)	
 	IsReadOnly()
 	lsReadOnly(DataView toView)
 	Lookup(string tcReturnField, string tcSearchExpression, string tcSearchedField)
