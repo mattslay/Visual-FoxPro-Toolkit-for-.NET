@@ -24,7 +24,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
  ## VFPToolkit Namespace:
 
 ## Arrays Class
-  ### Arrays Members
 	ACopy(ref Array aSource, ref Array aDestination)
 	ACopy(ref Array aSource, ref Array aDestination, int nFirstSourceElement)
 	ACopy(ref Array aSource, ref Array aDestination, int nFirstSourceElement, int nNumberOfSourceElements)
@@ -47,7 +46,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## Common Class
-  ### Common Members
 	Empty(string tcString)
 	GetPem(object oObject, string cPropertyEventMethodName)
 	InList(object toExpression, params object[] toltems)
@@ -69,7 +67,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## Dates Class
-### Dates Members
 	CDOW(DateTime dDate)
 	CMonth(DateTime dDate)
 	CTOD(string tcDate)
@@ -99,7 +96,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## Dialogs Class
-### Dialogs Members
 	_GetExtenstion(string IcExtension)
 	_GetFile(string tcFilter, int tnFilterIndex, string tcTitle)
 	GetColor(Color oColor)
@@ -123,8 +119,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 	PutFile(string tcTitle, string tcFileName, string tcExtension)
 	
 ## Environment Class
-### Environment Members
-  
 	_GetEnv(string IcEnvironmentVariable)
 	_ClipText()
 	_DbClick()
@@ -162,7 +156,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 	
 ## Files Class
-  ### Files Members
 	AGetFileVersion(ref string[] aFileInfoArray, string cFileName)
 	CurDir()
 	DefaultExt(string cFileName, string cExtension)
@@ -196,7 +189,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## Help Class
-### Help Members
 	_Screen()
 	CreateObject()
 	CreateObjectEx()
@@ -211,7 +203,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## Math Class
-### Math Members
 	Abs(decimal nNumber)
 	Abs(double nNumber)
 	Abs(int nNumber)
@@ -252,7 +243,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## Strings Class
-### Strings Members
 	Alltrim(string cExpression)
 	Asc(char cCharacter)
 	At(string cSearchFor, string cSearchIn)
@@ -314,7 +304,6 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 
 
 ## VfpData Class
-### vfpData Members
 	_Filter
 	_Found
 	_Order
