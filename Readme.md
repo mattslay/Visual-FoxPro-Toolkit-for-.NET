@@ -20,6 +20,11 @@ http://foxcentral.net/microsoft/NETforVFPDevelopers.htm
 - Nancy Folsom (Reviewer, Evangelist)
 - Ken Levy (Advisor, Communications)
 
+### Note: Sadly, there are a few things that are NOT implemented (this is a growing list, so please add an Issue if you find something else missing):
+
+	Scatter()
+	Gather()
+	
 
  ## VFPToolkit Namespace:
 
