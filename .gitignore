@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VFPToolkitNET_CSharpNET_Source/obj
+/VFPToolkitNET_CSharpNET_Source/.vs/VFPToolkitNET_CSharpNET_Source/v16
+/.vs
+/VFPToolkitNET_CSharpNET_Standard/obj

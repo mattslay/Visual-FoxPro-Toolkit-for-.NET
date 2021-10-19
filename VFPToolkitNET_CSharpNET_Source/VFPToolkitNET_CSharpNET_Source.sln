@@ -1,8 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFPToolkitNET_CSharpNET_Source", "VFPToolkitNET_CSharpNET_Source.csproj", "{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFPToolkitNET_CSharpNET_Standard", "..\VFPToolkitNET_CSharpNET_Standard\VFPToolkitNET_CSharpNET_Standard.csproj", "{35639CE0-EDDF-4FE5-9530-4C851EC9F0E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA9F2B40-9CBD-488B-90BC-99296FBEDD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35639CE0-EDDF-4FE5-9530-4C851EC9F0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35639CE0-EDDF-4FE5-9530-4C851EC9F0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35639CE0-EDDF-4FE5-9530-4C851EC9F0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35639CE0-EDDF-4FE5-9530-4C851EC9F0E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
