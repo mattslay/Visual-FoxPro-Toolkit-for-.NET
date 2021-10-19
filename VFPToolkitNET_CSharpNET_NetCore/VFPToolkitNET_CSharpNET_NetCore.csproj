@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon />    
+    <StartupObject />
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.OleDb" Version="5.0.0" />
+    <PackageReference Include="System.Management" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Arrays.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Common.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialogs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Environment.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Files.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Help.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Math.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Strings.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VfpData.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
