@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Arrays.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Common.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Files.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Help.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Math.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Strings.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>
